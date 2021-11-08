@@ -1,0 +1,28 @@
+.home__profile-section {
+  color: #fff;
+  padding: 160px 0;
+}
+
+h1 {
+  text-align: center;
+  color: #4c41fb;
+}
+
+.center_table {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.dashboard-img {
+  max-width: 25%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+.flex-wrapper {
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+  justify-content: space-between;
+}

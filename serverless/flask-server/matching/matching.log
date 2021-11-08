@@ -1,0 +1,632 @@
+INFO:root:Greedy Matching
+
+INFO:root:
+Threshold upper bound: 0.935
+Threshold lower bound: 0.9
+Step: 0.005
+Target match rate: 15%
+
+INFO:root:Threshold: 0.935, Match rate: 80.0
+INFO:root:Elapsed time:0:00:00.004335
+
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /users HTTP/1.1" 200 88
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /ride-request HTTP/1.1" 200 308
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /users HTTP/1.1" 200 88
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /ride-request HTTP/1.1" 200 308
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /users HTTP/1.1" 200 88
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /ride-request HTTP/1.1" 200 308
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /users HTTP/1.1" 200 88
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /ride-request HTTP/1.1" 200 308
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /users HTTP/1.1" 200 88
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /ride-request HTTP/1.1" 200 308
+INFO:root:K-Means Clustering
+INFO:root:Max iter: 300
+
+INFO:root:Finding optimal k value in range [2, 5)...
+INFO:root:Trying k = 2...
+INFO:root:Trying k = 3...
+INFO:root:Trying k = 4...
+INFO:root:Optimal k: 4
+
+INFO:root:Greedy Matching
+
+INFO:root:
+Threshold upper bound: 0.935
+Threshold lower bound: 0.9
+Step: 0.005
+Target match rate: 15%
+
+INFO:root:Threshold: 0.935, Match rate: 88.0
+INFO:root:Elapsed time:0:00:00.430519
+
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /users HTTP/1.1" 200 88
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /ride-request HTTP/1.1" 200 308
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /users HTTP/1.1" 200 88
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /ride-request HTTP/1.1" 200 313
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /users HTTP/1.1" 200 88
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /ride-request HTTP/1.1" 200 308
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /users HTTP/1.1" 200 88
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /ride-request HTTP/1.1" 200 313
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /users HTTP/1.1" 200 88
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /ride-request HTTP/1.1" 200 313
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /users HTTP/1.1" 200 88
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /ride-request HTTP/1.1" 200 313
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /users HTTP/1.1" 200 88
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /ride-request HTTP/1.1" 200 313
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /users HTTP/1.1" 200 88
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /ride-request HTTP/1.1" 200 313
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /users HTTP/1.1" 200 88
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /ride-request HTTP/1.1" 200 308
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /users HTTP/1.1" 200 88
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /ride-request HTTP/1.1" 200 313
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /users HTTP/1.1" 200 88
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /ride-request HTTP/1.1" 200 313
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /users HTTP/1.1" 200 88
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /ride-request HTTP/1.1" 200 308
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /users HTTP/1.1" 200 88
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /ride-request HTTP/1.1" 200 308
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /users HTTP/1.1" 200 88
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /ride-request HTTP/1.1" 200 313
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /users HTTP/1.1" 200 88
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /ride-request HTTP/1.1" 200 308
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /users HTTP/1.1" 200 88
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /ride-request HTTP/1.1" 200 313
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /users HTTP/1.1" 200 88
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /ride-request HTTP/1.1" 200 313
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /users HTTP/1.1" 200 88
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /ride-request HTTP/1.1" 200 313
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /users HTTP/1.1" 200 88
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /ride-request HTTP/1.1" 200 308
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /users HTTP/1.1" 200 88
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /ride-request HTTP/1.1" 200 313
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /users HTTP/1.1" 200 88
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /ride-request HTTP/1.1" 200 313
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /users HTTP/1.1" 200 88
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /ride-request HTTP/1.1" 200 313
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /users HTTP/1.1" 200 88
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /ride-request HTTP/1.1" 200 308
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /users HTTP/1.1" 200 88
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /ride-request HTTP/1.1" 200 308
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /users HTTP/1.1" 200 88
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /ride-request HTTP/1.1" 200 308
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /users HTTP/1.1" 200 88
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /ride-request HTTP/1.1" 200 313
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /users HTTP/1.1" 200 88
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /ride-request HTTP/1.1" 200 313
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /users HTTP/1.1" 200 88
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /ride-request HTTP/1.1" 200 308
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /users HTTP/1.1" 200 88
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /ride-request HTTP/1.1" 200 313
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /users HTTP/1.1" 200 88
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /ride-request HTTP/1.1" 200 308
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /users HTTP/1.1" 200 88
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /ride-request HTTP/1.1" 200 308
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /users HTTP/1.1" 200 88
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /ride-request HTTP/1.1" 200 313
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /users HTTP/1.1" 200 88
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /ride-request HTTP/1.1" 200 308
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /users HTTP/1.1" 200 88
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /ride-request HTTP/1.1" 200 313
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /users HTTP/1.1" 200 88
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /ride-request HTTP/1.1" 200 308
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /users HTTP/1.1" 200 88
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /ride-request HTTP/1.1" 200 313
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /users HTTP/1.1" 200 88
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /ride-request HTTP/1.1" 200 313
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /users HTTP/1.1" 200 88
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /ride-request HTTP/1.1" 200 313
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /users HTTP/1.1" 200 88
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /ride-request HTTP/1.1" 200 313
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /users HTTP/1.1" 200 88
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /ride-request HTTP/1.1" 200 308
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /users HTTP/1.1" 200 88
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /ride-request HTTP/1.1" 200 313
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /users HTTP/1.1" 200 88
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /ride-request HTTP/1.1" 200 308
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /users HTTP/1.1" 200 88
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /ride-request HTTP/1.1" 200 308
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /users HTTP/1.1" 200 88
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /ride-request HTTP/1.1" 200 308
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /users HTTP/1.1" 200 88
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /ride-request HTTP/1.1" 200 308
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /users HTTP/1.1" 200 88
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /ride-request HTTP/1.1" 200 313
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /users HTTP/1.1" 200 88
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /ride-request HTTP/1.1" 200 313
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /users HTTP/1.1" 200 88
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /ride-request HTTP/1.1" 200 313
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /users HTTP/1.1" 200 88
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /ride-request HTTP/1.1" 200 313
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /users HTTP/1.1" 200 88
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /ride-request HTTP/1.1" 200 308
+INFO:root:Greedy Matching
+
+INFO:root:
+Threshold upper bound: 0.935
+Threshold lower bound: 0.9
+Step: 0.005
+Target match rate: 15%
+
+INFO:root:Threshold: 0.935, Match rate: 60.0
+INFO:root:Elapsed time:0:00:00.005463
+
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /users HTTP/1.1" 200 90
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /ride-request HTTP/1.1" 200 308
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /users HTTP/1.1" 200 90
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /ride-request HTTP/1.1" 200 313
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /users HTTP/1.1" 200 90
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /ride-request HTTP/1.1" 200 313
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /users HTTP/1.1" 200 90
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /ride-request HTTP/1.1" 200 308
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /users HTTP/1.1" 200 90
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /ride-request HTTP/1.1" 200 308
+INFO:root:K-Means Clustering
+INFO:root:Max iter: 300
+
+INFO:root:Finding optimal k value in range [2, 4)...
+INFO:root:Trying k = 2...
+INFO:root:Trying k = 3...
+INFO:root:Optimal k: 3
+
+INFO:root:Greedy Matching
+
+INFO:root:
+Threshold upper bound: 0.935
+Threshold lower bound: 0.9
+Step: 0.005
+Target match rate: 15%
+
+INFO:root:Threshold: 0.935, Match rate: 95.55555555555556
+INFO:root:Elapsed time:0:00:00.374845
+
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /users HTTP/1.1" 200 90
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /ride-request HTTP/1.1" 200 313
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /users HTTP/1.1" 200 90
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /ride-request HTTP/1.1" 200 313
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /users HTTP/1.1" 200 90
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /ride-request HTTP/1.1" 200 308
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /users HTTP/1.1" 200 90
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /ride-request HTTP/1.1" 200 313
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /users HTTP/1.1" 200 90
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /ride-request HTTP/1.1" 200 313
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /users HTTP/1.1" 200 90
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /ride-request HTTP/1.1" 200 313
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /users HTTP/1.1" 200 90
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /ride-request HTTP/1.1" 200 313
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /users HTTP/1.1" 200 90
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /ride-request HTTP/1.1" 200 313
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /users HTTP/1.1" 200 90
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /ride-request HTTP/1.1" 200 308
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /users HTTP/1.1" 200 92
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /ride-request HTTP/1.1" 200 313
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /users HTTP/1.1" 200 92
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /ride-request HTTP/1.1" 200 308
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /users HTTP/1.1" 200 92
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /ride-request HTTP/1.1" 200 308
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /users HTTP/1.1" 200 92
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /ride-request HTTP/1.1" 200 308
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /users HTTP/1.1" 200 92
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /ride-request HTTP/1.1" 200 313
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /users HTTP/1.1" 200 92
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /ride-request HTTP/1.1" 200 308
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /users HTTP/1.1" 200 92
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /ride-request HTTP/1.1" 200 308
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /users HTTP/1.1" 200 92
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /ride-request HTTP/1.1" 200 308
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /users HTTP/1.1" 200 92
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /ride-request HTTP/1.1" 200 313
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /users HTTP/1.1" 200 92
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /ride-request HTTP/1.1" 200 313
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /users HTTP/1.1" 200 92
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /ride-request HTTP/1.1" 200 308
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /users HTTP/1.1" 200 92
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /ride-request HTTP/1.1" 200 308
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /users HTTP/1.1" 200 92
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /ride-request HTTP/1.1" 200 313
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /users HTTP/1.1" 200 92
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /ride-request HTTP/1.1" 200 308
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /users HTTP/1.1" 200 92
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /ride-request HTTP/1.1" 200 313
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /users HTTP/1.1" 200 92
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /ride-request HTTP/1.1" 200 313
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /users HTTP/1.1" 200 92
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /ride-request HTTP/1.1" 200 313
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /users HTTP/1.1" 200 92
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /ride-request HTTP/1.1" 200 308
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /users HTTP/1.1" 200 92
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /ride-request HTTP/1.1" 200 313
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /users HTTP/1.1" 200 92
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /ride-request HTTP/1.1" 200 313
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /users HTTP/1.1" 200 92
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /ride-request HTTP/1.1" 200 313
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /users HTTP/1.1" 200 92
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /ride-request HTTP/1.1" 200 313
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /users HTTP/1.1" 200 92
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /ride-request HTTP/1.1" 200 308
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /users HTTP/1.1" 200 92
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /ride-request HTTP/1.1" 200 308
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /users HTTP/1.1" 200 92
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /ride-request HTTP/1.1" 200 308
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /users HTTP/1.1" 200 92
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /ride-request HTTP/1.1" 200 313
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /users HTTP/1.1" 200 92
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /ride-request HTTP/1.1" 200 313
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /users HTTP/1.1" 200 92
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /ride-request HTTP/1.1" 200 308
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /users HTTP/1.1" 200 92
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /ride-request HTTP/1.1" 200 308
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /users HTTP/1.1" 200 92
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /ride-request HTTP/1.1" 200 308
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /users HTTP/1.1" 200 92
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /ride-request HTTP/1.1" 200 313
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /users HTTP/1.1" 200 92
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /ride-request HTTP/1.1" 200 313
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /users HTTP/1.1" 200 92
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /ride-request HTTP/1.1" 200 308
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /users HTTP/1.1" 200 92
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /ride-request HTTP/1.1" 200 313
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /users HTTP/1.1" 200 92
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /ride-request HTTP/1.1" 200 308
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /users HTTP/1.1" 200 92
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /ride-request HTTP/1.1" 200 313
+INFO:root:Greedy Matching
+
+INFO:root:
+Threshold upper bound: 0.935
+Threshold lower bound: 0.9
+Step: 0.005
+Target match rate: 15%
+
+INFO:root:Threshold: 0.935, Match rate: 97.14285714285714
+INFO:root:Elapsed time:0:00:00.222284
+
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /users HTTP/1.1" 200 90
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /ride-request HTTP/1.1" 200 308
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /users HTTP/1.1" 200 90
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /ride-request HTTP/1.1" 200 313
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /users HTTP/1.1" 200 90
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /ride-request HTTP/1.1" 200 313
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /users HTTP/1.1" 200 90
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /ride-request HTTP/1.1" 200 308
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /users HTTP/1.1" 200 90
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /ride-request HTTP/1.1" 200 313
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /users HTTP/1.1" 200 90
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /ride-request HTTP/1.1" 200 308
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /users HTTP/1.1" 200 90
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /ride-request HTTP/1.1" 200 308
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /users HTTP/1.1" 200 90
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /ride-request HTTP/1.1" 200 308
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /users HTTP/1.1" 200 90
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /ride-request HTTP/1.1" 200 308
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /users HTTP/1.1" 200 92
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /ride-request HTTP/1.1" 200 308
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /users HTTP/1.1" 200 92
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /ride-request HTTP/1.1" 200 308
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /users HTTP/1.1" 200 92
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /ride-request HTTP/1.1" 200 308
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /users HTTP/1.1" 200 92
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /ride-request HTTP/1.1" 200 313
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /users HTTP/1.1" 200 92
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /ride-request HTTP/1.1" 200 313
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /users HTTP/1.1" 200 92
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /ride-request HTTP/1.1" 200 313
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /users HTTP/1.1" 200 92
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /ride-request HTTP/1.1" 200 313
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /users HTTP/1.1" 200 92
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /ride-request HTTP/1.1" 200 313
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /users HTTP/1.1" 200 92
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /ride-request HTTP/1.1" 200 313
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /users HTTP/1.1" 200 92
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /ride-request HTTP/1.1" 200 308
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /users HTTP/1.1" 200 92
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /ride-request HTTP/1.1" 200 313
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /users HTTP/1.1" 200 92
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /ride-request HTTP/1.1" 200 308
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /users HTTP/1.1" 200 92
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /ride-request HTTP/1.1" 200 313
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /users HTTP/1.1" 200 92
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /ride-request HTTP/1.1" 200 313
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /users HTTP/1.1" 200 92
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /ride-request HTTP/1.1" 200 313
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /users HTTP/1.1" 200 92
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /ride-request HTTP/1.1" 200 308
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /users HTTP/1.1" 200 92
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /ride-request HTTP/1.1" 200 308
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /users HTTP/1.1" 200 92
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /ride-request HTTP/1.1" 200 313
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /users HTTP/1.1" 200 92
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /ride-request HTTP/1.1" 200 308
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /users HTTP/1.1" 200 92
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /ride-request HTTP/1.1" 200 313
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /users HTTP/1.1" 200 92
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /ride-request HTTP/1.1" 200 308
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /users HTTP/1.1" 200 92
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /ride-request HTTP/1.1" 200 313
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /users HTTP/1.1" 200 92
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /ride-request HTTP/1.1" 200 308
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /users HTTP/1.1" 200 92
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /ride-request HTTP/1.1" 200 313
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /users HTTP/1.1" 200 92
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /ride-request HTTP/1.1" 200 313
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /users HTTP/1.1" 200 92
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): yalepool.com:443
+DEBUG:urllib3.connectionpool:https://yalepool.com:443 "POST /ride-request HTTP/1.1" 200 313
