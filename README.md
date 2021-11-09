@@ -3,7 +3,7 @@ Ride share matching for the Yale community.
 
 # Description of Roles and Contributions
 
-@adrianaarcia: primarily responsible for the design of the algorithm, and the implementation of  k-means clustering, match evaluation, as well as analytics, summary, and visualization functions. I authored the following files in the `serverless/flask-server` directory:
+@adrianaarcia: responsible for the design of the algorithm, and the implementation of  k-means clustering, match evaluation, as well as analytics, summary, and visualization functions. I authored the following files in the `serverless/flask-server` directory:
 
 * `random_matching.py`
 	
