@@ -5,12 +5,14 @@ Ride share matching for the Yale community.
 
 * @adrianaarcia: primarily responsible for the design of the algorithm, and the implementation of  k-means clustering, match evaluation, as well as analytics, summary, and visualization functions. I authored the following files in the `serverless/flask-server` directory: 
 	* `random_matching.py`
+	
 and the `serverless/flask-server/matching` directory:
 	* `main.py`
 	* `kmeans.py`
 	* `matching.py`
 	* `sample_inputs.py`
 	* `utility.py`
+	
 as well as the associated test files in the `serverless/flask-server/matching/tests` directory:
 	* `test_kmeans.py`
 	* `test_matching.py`
