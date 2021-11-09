@@ -3,28 +3,28 @@ Ride share matching for the Yale community.
 
 # Description of Roles and Contributions
 
-@adrianaarcia: primarily responsible for the design of the algorithm, and the implementation of  k-means clustering, match evaluation, as well as analytics, summary, and visualization functions. I authored the following files in the `serverless/flask-server` directory: 
-	*`random_matching.py`
+* @adrianaarcia: primarily responsible for the design of the algorithm, and the implementation of  k-means clustering, match evaluation, as well as analytics, summary, and visualization functions. I authored the following files in the `serverless/flask-server` directory: 
+	* `random_matching.py`
 and the `serverless/flask-server/matching` directory:
-	*`main.py`
-	*`kmeans.py`
-	*`matching.py`
-	*`sample_inputs.py`
-	*`utility.py`
+	* `main.py`
+	* `kmeans.py`
+	* `matching.py`
+	* `sample_inputs.py`
+	* `utility.py`
 as well as the associated test files in the `serverless/flask-server/matching/tests` directory:
-	*`test_kmeans.py`
-	*`test_matching.py`
-	*`test_sample_inputs.py`
-	*`test_utility.py`
+	* `test_kmeans.py`
+	* `test_matching.py`
+	* `test_sample_inputs.py`
+	* `test_utility.py`
 	
-@AbrahamMensa: designed and implemented the greedy portion of the algorithm: Authored the following files in the `serverless/flask-server/matching` directory: 
+* @AbrahamMensa: designed and implemented the greedy portion of the algorithm: Authored the following files in the `serverless/flask-server/matching` directory: 
 	*`greedy.py`
 and the associated test files in the `serverless/flask-server/matching/tests` directory:
 	*`test_greedy.py`	
 
-@DanielSanchezDiaz and @Obed-Ababio: responsible for frontend web development and co-authored all files in the `web` directory.
+* @DanielSanchezDiaz and @Obed-Ababio: responsible for frontend web development and co-authored all files in the `web` directory.
 
-@jtruong99: responsible for backend development and all files in  `serverless` directory excluding those previously mentioned.
+* @jtruong99: responsible for backend development and all files in  `serverless` directory excluding those previously mentioned.
 
 
 # Quick Start 
