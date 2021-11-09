@@ -24,11 +24,11 @@ as well as the associated test files in the `serverless/flask-server/matching/te
 	
 @AbrahamMensa: designed and implemented the greedy portion of the algorithm: Authored the following files in the `serverless/flask-server/matching` directory: 
 
-*`greedy.py`
+* `greedy.py`
 	
 and the associated test files in the `serverless/flask-server/matching/tests` directory:
 
-*`test_greedy.py`	
+* `test_greedy.py`	
 
 @DanielSanchezDiaz and @Obed-Ababio: responsible for frontend web development and co-authored all files in the `web` directory.
 
