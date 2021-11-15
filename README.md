@@ -1,6 +1,14 @@
 # ypool
 Ride share matching for the Yale community. 
 
+# Overview
+YPool hopes to match Yale affiliates interested in carpooling to locations such airports and train stations. Individuals enter information related to their trip (such as date, destination, and time of departure) and are then matched with other Yale affiliates who have similar travel plans. The application was live at https://yalepool.com/, and limited to the Yale community with protection via CAS authentication. The project utilizes the Serverless framework with a many AWS services including Lambda, DynamoDB, and APIGateway, and the front end is built with React.
+
+# Quick Start 
+Running `./test_and_deploy.sh` will run all server tests and deploy to AWS via Serverless. Note that this assumes you have proper AWS configurations set up in your local development environment. (If you are not an administrator of this project, this is probably something you don't want to do.) See web section below on how to run server tests.
+
+To just run the tests but not deploy, call `./run_test_suite.sh`.
+
 # Description of Roles and Contributions
 
 @adrianaarcia: responsible for the design of the algorithm, and the implementation of  k-means clustering, match evaluation, as well as analytics, summary, and visualization functions. I authored the following files in the `serverless/flask-server` directory:
@@ -33,15 +41,6 @@ and the associated test files in the `serverless/flask-server/matching/tests` di
 @DanielSanchezDiaz and @Obed-Ababio: responsible for frontend web development and co-authored all files in the `web` directory.
 
 @jtruong99: responsible for backend development and all files in  `serverless` directory excluding those previously mentioned.
-
-
-# Quick Start 
-Running `./test_and_deploy.sh` will run all server tests and deploy to AWS via Serverless. Note that this assumes you have proper AWS configurations set up in your local development environment. (If you are not an administrator of this project, this is probably something you don't want to do.) See web section below on how to run server tests.
-
-To just run the tests but not deploy, call `./run_test_suite.sh`.
-
-# Overview
-YPool hopes to match Yale affiliates interested in carpooling to locations such airports and train stations. Individuals enter information related to their trip (such as date, destination, and time of departure) and are then matched with other Yale affiliates who have similar travel plans. The application was live at https://yalepool.com/, and limited to the Yale community with protection via CAS authentication. The project utilizes the Serverless framework with a many AWS services including Lambda, DynamoDB, and APIGateway, and the front end is built with React.
 
 ## Project Organization
 
